@@ -1,0 +1,10 @@
+.filterFav{
+    margin-top: 70px;
+    text-align: center;
+}
+
+.cardFav{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

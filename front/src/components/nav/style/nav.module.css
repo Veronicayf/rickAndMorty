@@ -1,0 +1,19 @@
+.contenNav{
+    display: flex;
+    justify-content: space-around;
+    /* margin: 30px; */
+    font-size: large;
+    margin-top: 0;
+    gap: 300px;
+}
+
+.navList{
+    display: flex;
+    gap: 50px;
+}
+
+.buttonList{
+    border-radius: 5px;
+    background-color: pink;
+    padding: 10px
+}

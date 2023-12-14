@@ -1,0 +1,13 @@
+.contenCard{
+    margin-top: 70px;
+    border: solid rgb(197, 194, 194);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+}
+
+
+

@@ -1,0 +1,9 @@
+.buttonSearch{
+    border-radius: 5px;
+    background-color: pink;
+    padding: 10px
+}
+
+.inputSearch{
+    padding: 5px;
+}
